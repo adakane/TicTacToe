@@ -1,3 +1,7 @@
+Simple Tic Tac Toe game for two users that i created with javascript to learn more about JS and it's functionality. I used React to create this application and normal css and javascript.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
